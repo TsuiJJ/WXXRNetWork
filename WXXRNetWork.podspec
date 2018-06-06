@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'WXXRNetWork'
   s.version          = '0.1.0'
-  s.summary          = 'test of WXXRNetWork.'
+  s.summary          = '业务Webview.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-            test info don't worry about the indent, CocoaPods strips it
+JDPSBrowserModule-处理了业务逻辑的Webview
                        DESC
 
   s.homepage         = 'https://github.com/TsuiJJ/WXXRNetWork'
