@@ -1,0 +1,22 @@
+{
+  "name": "WXXRNetWork",
+  "version": "0.1.0",
+  "summary": "A short description of WXXRNetWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xtxujijun@hotmail.com/WXXRNetWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xtxujijun@hotmail.com": "xujijun@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/xtxujijun@hotmail.com/WXXRNetWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WXXRNetWork/Classes/**/*"
+}

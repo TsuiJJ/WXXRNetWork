@@ -1,0 +1,6 @@
+framework module WXXRNetWork {
+  umbrella header "WXXRNetWork-umbrella.h"
+
+  export *
+  module * { export * }
+}
