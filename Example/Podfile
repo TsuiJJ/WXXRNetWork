@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WXXRNetWork_Tests' do
+  pod 'WXXRNetWork', :path => '../'
+  
+  
+end
